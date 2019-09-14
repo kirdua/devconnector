@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://kirdua:Rocky001@cluster0-eovhs.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://kirdua:Rocky001@cluster0-eovhs.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
