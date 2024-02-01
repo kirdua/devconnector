@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://kirdua:Rocky001@cluster0-eovhs.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "",
   "jwtSecret": "mysecrettoken",
-  "githubClientId":"3def7223250e611e08b3",
-  "githubSecret":"1a848bc1bdb0e325d79c569cf02e8a53d7b27fe9"
+  "githubClientId":"",
+  "githubSecret":""
 }
